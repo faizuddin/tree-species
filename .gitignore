@@ -1,3 +1,7 @@
+# pre-trained network
+models/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5
+models/deeplabv3_xception65_ade20k.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
