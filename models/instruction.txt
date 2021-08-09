@@ -1,4 +1,8 @@
-Download the pre-trained network into this directory
+Download pre-trained network into this directory
 
+Image segmentation
 1. Ade20K https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.3/deeplabv3_xception65_ade20k.h5
 2. Pascal Voc https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5
+
+Instance segmentation
+1. Mask RCNN https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.2/mask_rcnn_coco.h5
